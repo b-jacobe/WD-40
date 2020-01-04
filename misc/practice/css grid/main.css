@@ -1,0 +1,41 @@
+.d1{
+  background: LightSkyBlue;
+}
+.d2{
+  background: LightSalmon;
+}
+.d3{
+  background: PaleTurquoise;
+}
+.d4{
+  background: LightPink;
+}
+.d5{
+  background: PaleGreen;
+}
+.d6{
+  background: LightYellow;
+}
+.d7{
+  background: Black;
+  color: white;
+}
+.d8{
+  background: White;
+}
+.d9{
+  background: LightGray;
+}
+
+/*Creates a 3x3 grid*/
+.container{
+  font-size: 40px;
+  width: 100%;
+  background: white;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  /*grid-column-gap: 5px;
+  grid-row-gap: 5px;*/
+  grid-gap: 5px 5px;
+}
