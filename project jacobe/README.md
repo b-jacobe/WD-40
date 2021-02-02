@@ -1,5 +1,6 @@
 # Project Jacobe
-* This is version 1.0 of my public portfolio. This will house my other projects within my GitHub account.   
+* This is the codebase to my public portfolio.   
 Update:   
-  Domain name for Project Jacobe is brianjacobe.io
+  Ver 1.0 - Using Vanilla HTML/CSS/JS
+          - Domain name: brianjacobe.io
 
