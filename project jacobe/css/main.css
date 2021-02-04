@@ -1,6 +1,5 @@
 /* --------------------------------
 CSS Animated Headline
-
 All credits go to:
 https://codyhouse.co/gem/css-animated-headlines/
 -------------------------------- */
@@ -18,12 +17,13 @@ https://codyhouse.co/gem/css-animated-headlines/
     }
 }
 
-.intro-section {
+.intro-section, .about-section, .project-section {
   min-height: 100%;
   width: 100%;
   padding-top: 120px;
   text-align: center;
 }
+
 
 *, *::after, *::before {
   -webkit-box-sizing: border-box;
@@ -132,9 +132,7 @@ a {
 }
 
 /* -------------------------------- 
-
 xrotate-1 
-
 -------------------------------- */
 .cd-headline.rotate-1 .cd-words-wrapper {
   -webkit-perspective: 300px;
